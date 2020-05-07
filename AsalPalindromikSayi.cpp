@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 /*10 bin ile 100 bin arasındaki asal sayılardan ters çevrildiğinde aynı sayı olan 
- asal sayıları ekrana yazan ve bu sayıların adetini yazan program :) */
+ asal sayıları ekrana yazan ve bu sayıların adetini hesaplayan program :) */
 
 int main()
 {
