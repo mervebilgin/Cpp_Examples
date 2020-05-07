@@ -2,11 +2,11 @@
 #include<math.h>
 using namespace std;
 
-// Dışarıdan girilen N elemanlı bir dizinin aritmetik, geometrik ve harmonik ortalamasını hesaplayan program...
+// DÄ±ÅŸarÄ±dan girilen N elemanlÄ± bir dizinin aritmetik, geometrik ve harmonik ortalamasÄ±nÄ± hesaplayan program...
 
 int main() {
 	
-	int i,n;
+    int i,n;
     int dizi[n];
     float ariort,geoort,harort;
 
@@ -39,5 +39,5 @@ int main() {
     cout<< "Geometrik Ortalama= "<< geoort<< endl;
     cout<< "Harmonik Ortalama= "<< harort<< endl;	
 		
-	return 0;
+    return 0;
 }
