@@ -2,11 +2,11 @@
 #include<math.h>
 using namespace std;
 
-// Bir dizideki elemanların standart sapmasını ve varyansını bulan program...
+// Bir dizideki elemanlarÄ±n standart sapmasÄ±nÄ± ve varyansÄ±nÄ± bulan program...
 
 int main() {
 	
-	int i,n;
+    int i,n;
     int dizi[n];
     float ariort,stsapma,varyans;
     
