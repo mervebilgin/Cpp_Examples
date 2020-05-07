@@ -1,16 +1,15 @@
 #include <iostream>
 using namespace std;
+/*10 bin ile 100 bin arasÄ±ndaki asal sayÄ±lardan ters Ã§evrildiÄŸinde aynÄ± sayÄ± olan 
+ asal sayÄ±larÄ± ekrana yazan ve bu sayÄ±larÄ±n adetini yazan program :) */
 
 int main()
 {
-	/*10 bin ile 100 bin arasındaki asal sayılardan ters çevrildiğinde aynı sayı olan 
-	    asal sayıları ekrana yazan ve bu sayıların adetini yazan program :) */
-	    
 	int sayac1=0,sayac2=0;
 	int bir, on, yuz, bin, onbin, yeni_sayi;
 	 
 	for(int i=10000;i<100000;i++) 
-	{	
+	{
 		sayac1=0; 
 		for(int j=2;j<i;j++) {
 			
@@ -29,7 +28,6 @@ int main()
 		    onbin=i/10000;        
 		    
 		    yeni_sayi = bir*10000 + on*10000 + yuz*100 + bin*10 + onbin*1 ; 
-		    
 		    
 		    if(bir==onbin && on==bin ){
 		    	
