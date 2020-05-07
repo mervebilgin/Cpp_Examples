@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 
-/* Dışarıdan girilen n elemanlı bir dizideki en büyük elemanı en küçük elemanı ve 
-    en büyük elemanla en küçük eleman arasındaki farkı bulan program...*/
+/* DÄ±ÅŸarÄ±dan girilen n elemanlÄ± bir dizideki en bÃ¼yÃ¼k elemanÄ± en kÃ¼Ã§Ã¼k elemanÄ± ve 
+    en bÃ¼yÃ¼k elemanla en kÃ¼Ã§Ã¼k eleman arasÄ±ndaki farkÄ± bulan program :) */
 
 int main() {
 	
@@ -30,5 +30,5 @@ int main() {
     fark = enb - enk;
     cout<<"\nEn buyuk sayi: "<<enb<< "\nEn kucuk sayi: "<<enk << "\nSayilar arasindaki fark: "<< fark;
 	
-	return 0;
+    return 0;
 }
