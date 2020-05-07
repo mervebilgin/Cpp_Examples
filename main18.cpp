@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-// Dışarıdan girilen N elemanlı bir diziyi tersine çeviren program...
+// DÄ±ÅŸarÄ±dan girilen N elemanlÄ± bir diziyi tersine Ã§eviren program :)
 int main() {
 	int i, n;
 	int dizi[n];
