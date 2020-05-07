@@ -38,5 +38,5 @@ int main() {
     cout<< "Varyans= "<< varyans<< endl;
     cout<< "Standart Sapma= "<< stsapma <<endl;
     
-	return 0;
+    return 0;
 }
